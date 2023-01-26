@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/XK2caFPRLObN5bVvfYSLVdkRwFZ2ApceHt8JqMUzetfk8snbQNOy2NtLehVLs/mYdq2hjHDI/Ml+J6Nm/y4Iw==",
+  "dgSpecHash": "A8riv/85COldt3EtsomKa+u+5GKl0agh0U9AuSkkSB1ZwNYj1X5Nr71n+T/fqsoufTZDV/iQ6XX3FOezSHIOOQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorda\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jorda\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",

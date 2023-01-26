@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj": {}
+    "C:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj": {
+    "C:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj",
+        "projectPath": "C:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\API.csproj",
         "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\obj\\",
+        "outputPath": "C:\\Users\\jorda\\Desktop\\.Net_API_Demo\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +41,8 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.1, )"
             },
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
